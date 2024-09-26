@@ -6,9 +6,7 @@
 
 ### About Me ✨
 
-I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University*, with a minor in **Artificial Intelligence and Machine Learning**. Passionate about software development and machine learning, I'm driven to solve real-world problems through innovative technology. I love working on collaborative projects, especially those involving full stack development, embedded systems, and AI models. 
-
-In my spare time, I enjoy exploring the latest tech trends, learning new programming languages, and contributing to open-source projects.
+I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University*, with a minor in **Artificial Intelligence and Machine Learning**. Passionate about software development and machine learning, I'm driven to solve real-world problems through innovative technology. I love working on collaborative projects,learning new programming languages, and contributing to open-source projects.
 
 ---
 
