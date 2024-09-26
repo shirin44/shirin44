@@ -46,7 +46,7 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 ---
 
 ### Top Languages 🔝
-[![Top Languages](https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,html,css)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
