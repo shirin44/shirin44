@@ -1,5 +1,4 @@
 
-
 ## Hi there 👋
 
 ---
@@ -53,13 +52,26 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ---
 
+#### [Traffic Light Control System](https://github.com/shirin44/OENG1207-Digital-Fundamentals-Traffic-light-project)  
+**Date:** January 2023  
+**Coursework:** OENG1207 Digital Fundamentals (Group Assignment)  
+**Description:** Designed an automatic traffic light system with pedestrian control using Simulink and Stateflow. The project included two phases: one without a pedestrian button (timer-based) and one with dynamic pedestrian control via a button press.  
+**Technologies Used:** Simulink, Stateflow, Digital Logic, Embedded Systems
+
+---
+
 ### Top Languages 🔝  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Skills 🛠️  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly,figma,ai,ps)](https://skillicons.dev)
+
+- **Programming Languages:** C, Embedded C, Python, Typescript, JavaScript,C++
+- **Frameworks & Libraries:** React, Node.js, Redux, Express, TensorFlow
+- **Tools & Platforms:** Git, Docker, Linux, MongoDB, Vite ,Matlab 
+- **UI/UX Design:** Figma, Adobe Illustrator
 
 ---
 
