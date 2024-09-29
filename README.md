@@ -6,7 +6,7 @@
 
 ### About Me ✨
 
-I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University*, with a minor in **Artificial Intelligence and Machine Learning**. Passionate about software development and machine learning, I'm driven to solve real-world problems through innovative technology. I love working on collaborative projects,learning new programming languages, and contributing to open-source projects.
+I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University*, with a minor in **Artificial Intelligence and Machine Learning**. Passionate about software development and machine learning, I'm driven to solve real-world problems through innovative technology. I love working on collaborative projects, learning new programming languages, and contributing to open-source projects.
 
 ---
 
@@ -45,12 +45,20 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ---
 
-### Top Languages 🔝
+#### [Battleship Game](https://github.com/shirin44/EEET2481-Embedded-System-Design-and-Implementation-Battleship-game)  
+**Date:** May 2024  
+**Coursework:** EEET2481 Embedded System Design & Implementation (Group Assignment)  
+**Description:** Designed and developed a single-player Battleship game on the NUC140 board. The game uses UART communication, GPIO, timers, and interrupts to provide an interactive and dynamic gaming experience.  
+**Technologies Used:** C, Embedded C, UART, SPI, GPIO, LCD, Timers
+
+---
+
+### Top Languages 🔝  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Skills 🛠️
+### Skills 🛠️  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly)](https://skillicons.dev)
 
 ---
