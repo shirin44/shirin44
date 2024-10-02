@@ -1,4 +1,5 @@
 
+
 ## Hi there 👋
 
 ---
@@ -60,19 +61,25 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ---
 
+#### [Genie's Video Store Management System](https://github.com/shirin44/INTE2512-Object-Oriented-Programming-Final-Project)  
+**Date:** May 2023  
+**Coursework:** INTE2512 Object Oriented Programming (Group Assignment)  
+**Description:** Developed a video store management system using JavaFX, managing rentals, customer accounts (Guest, Regular, VIP), and inventory. The system allows for adding, updating, and deleting video items, customer management, and automatic promotions based on rental history.  
+**Technologies Used:** Java, JavaFX, Object-Oriented Programming, File Handling
+
+---
+
 ### Top Languages 🔝  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Skills 🛠️  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly,figma,ai,ps)](https://skillicons.dev)
-
-- **Programming Languages:** C, Embedded C, Python, Typescript, JavaScript,C++
-- **Frameworks & Libraries:** React, Node.js, Redux, Express, TensorFlow
-- **Tools & Platforms:** Git, Docker, Linux, MongoDB, Vite ,Matlab 
-- **UI/UX Design:** Figma, Adobe Illustrator
-
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly,matlab)](https://skillicons.dev)
+Programming Languages: C, Embedded C, Python, Typescript, JavaScript, C++
+Frameworks & Libraries: React, Node.js, Redux, Express, TensorFlow
+Tools & Platforms: Git, Docker, Linux, MongoDB, Vite, Matlab
+UI/UX Design: Figma, Adobe Illustrator
 ---
 
 ### Connect with Me 🤝
