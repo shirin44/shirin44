@@ -76,10 +76,12 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ### Skills 🛠️  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,redux,git,docker,linux,tensorflow,opencv,vite,assembly,matlab)](https://skillicons.dev)
-Programming Languages: C, Embedded C, Python, Typescript, JavaScript, C++
-Frameworks & Libraries: React, Node.js, Redux, Express, TensorFlow
-Tools & Platforms: Git, Docker, Linux, MongoDB, Vite, Matlab
-UI/UX Design: Figma, Adobe Illustrator
+
+- **Programming Languages:** C, Embedded C, Python, Typescript, JavaScript, C++
+- **Frameworks & Libraries:** React, Node.js, Redux, Express, TensorFlow
+- **Tools & Platforms:** Git, Docker, Linux, MongoDB, Vite, Matlab
+- **UI/UX Design:** Figma, Adobe Illustrator
+
 ---
 
 ### Connect with Me 🤝
