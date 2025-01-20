@@ -45,6 +45,13 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ---
 
+#### [PopChoice - AI-Powered Movie Recommendation App](https://github.com/shirin44/pop-choice)  
+**Date:** January 2025  
+**Description:** Developed an AI-driven movie recommendation app that personalizes movie suggestions based on user preferences such as mood, tone, storyline, and genres. Integrated **Google Gemini AI** and **TMDB API** for advanced AI-driven recommendations and real-time movie data fetching.  
+**Technologies Used:** Node.js, Express.js, Tailwind CSS, JavaScript, Google Gemini AI, TMDB API
+
+---
+
 #### [Battleship Game](https://github.com/shirin44/EEET2481-Embedded-System-Design-and-Implementation-Battleship-game)  
 **Date:** May 2024  
 **Coursework:** EEET2481 Embedded System Design & Implementation (Group Assignment)  
