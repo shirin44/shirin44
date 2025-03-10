@@ -21,6 +21,13 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ### Highlighted Projects 👩🏻‍🎓
 
+#### [Kaggle Housing Price Prediction - Top 2.7% Achievement](https://github.com/vutrongnhannguyen/HousePredictionSystem)
+**Date:** March 2025  
+**Description:** Achieved a global top 2.7% ranking in the Kaggle House Price Prediction competition. Implemented advanced regression techniques and ensemble learning models to predict house prices accurately.  
+**Technologies Used:** Python, Scikit-learn, XGBoost, CatBoost, LightGBM, Pandas, NumPy  
+
+---
+
 #### [BuZzNet - Social Media Platform](https://github.com/shirin44/COSC2769_Full_Stack_Development_Group_Assignment)  
 **Date:** September 2024  
 **Coursework:** COSC2769 Full Stack Development (Group Assignment)  
