@@ -44,7 +44,7 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ---
 
-###  [PosePlay - T-Rex Game with Gesture Control](https://github.com/shirin44/PosePlay-Trex)
+####  [PosePlay - T-Rex Game with Gesture Control](https://github.com/shirin44/PosePlay-Trex)
 
 **Date:** July 2025
 **Description:** A modern reimagining of the classic T-Rex Runner game, controlled entirely by your gestures using computer vision. The game detects a **fist gesture** to make the T-Rex jump, blending OpenCV, MediaPipe, and Pygame for an interactive webcam experience.
