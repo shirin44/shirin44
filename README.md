@@ -21,6 +21,14 @@ I'm a **Bachelor of Software Engineering (Honours)** student at *RMIT University
 
 ### Highlighted Projects 👩🏻‍🎓
 
+
+#### [Haitian Konpa Discography](https://haitian-konpa-discography-958459055189.us-west1.run.app/#/)  
+**Date:** August 2025  
+**Description:** An interactive discography platform celebrating Haitian Konpa music. Explore albums through a scrollable timeline, dive into artist bios, and view detailed album pages with tracklists.  
+**Technologies Used:** Supabase, React, Node.js, Express, Tailwind CSS
+
+---
+
 #### [Kaggle Housing Price Prediction - Top 2.7% Achievement](https://github.com/vutrongnhannguyen/HousePredictionSystem)
 **Date:** March 2025  
 **Description:** Achieved a global top 2.7% ranking in the Kaggle House Price Prediction competition. Implemented advanced regression techniques and ensemble learning models to predict house prices accurately.  
