@@ -62,6 +62,19 @@ Working on the project: **Toward Responsible Gen AI for Low-Resource Languages**
 
 ### Highlighted Projects 👩🏻‍💻
 
+#### [AgentShield](https://agentshield-a8848.web.app)
+**Date:** March 2026  
+**Description:** Award-winning AI agent security project built at LotusHack 2026. AgentShield is a real-time security layer that intercepts AI agent tool calls before execution, analyzes intent, and decides whether the action should be approved, escalated for human review, or blocked. The system uses a two-layer gateway with local Qwen 0.8B intent analysis and cloud-based risk inspection for higher-risk requests.  
+**Technologies Used:** React, TypeScript, Express, Firebase, Qwen, AWS Lambda, Tiny Fish, Cursor  
+**Features:**
+- Real-time interception of AI agent tool calls
+- On-device intent analysis with Qwen 0.8B
+- Cloud escalation for deeper risk inspection
+- Human-in-the-loop review for suspicious actions
+- Audit logging and self-evolving risk database
+  
+---
+
 #### [AI Evidence Verification Layer](https://github.com/shirin44/ai-evidence-verification)
 **Description:** A Streamlit application that fact-checks uploaded documents against a trusted internal knowledge base and, optionally, the web. It extracts checkable claims, verifies them through a FAISS-based RAG pipeline, and falls back to domain-whitelisted web search when internal evidence is insufficient.  
 **Technologies Used:** Python, Streamlit, OpenAI API, FAISS, PyMuPDF, ReportLab, Brave Search API  
@@ -182,6 +195,7 @@ Working on the project: **Toward Responsible Gen AI for Low-Resource Languages**
 - 1st Place — CoverGo AI Hackathon (2025)
 - 2nd Place — RMIT × Katalon Testathon (2025)
 - 2nd Place — ADC Competition (2025)
+- 1st Place / Best Use of Qwen — LotusHack 2026
 
 ---
 
