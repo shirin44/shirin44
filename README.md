@@ -244,9 +244,7 @@ Working on the project: **Toward Responsible Gen AI for Low-Resource Languages**
 
 ### Connect with Me 🤝
 
-- **Email:** shirinshujaa2468@gmail.com
 - **LinkedIn:** [Shirin Shujaa](https://www.linkedin.com/in/shirin-shujaa/)
 - **GitHub:** [shirin44](https://github.com/shirin44)
-- **Portfolio:** [shirin44.github.io/shirin-portfolio](https://shirin44.github.io/shirin-portfolio)
 
 ---
